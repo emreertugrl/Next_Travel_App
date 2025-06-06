@@ -120,3 +120,11 @@
     @apply bg-background text-foreground;
   }
 }
+.swiper-button-prev {
+  @apply text-orange-600;
+  color: #ea580c !important;
+}
+.swiper-button-next {
+  @apply text-orange-600;
+  color: #ea580c !important;
+}
